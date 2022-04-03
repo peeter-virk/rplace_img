@@ -1,1 +1,1 @@
-{"version":"3.39","filename":"lipp-ooseks-03.png","bot_version":"1.7","download_link":"https://github.com/enduity/rPlaceRevamp/archive/refs/tags/v1.7.zip"}
+{"version":"4.0","filename":"lipp-ooseks-04.png","bot_version":"1.7","download_link":"https://github.com/enduity/rPlaceRevamp/archive/refs/tags/v1.7.zip"}
