@@ -1,1 +1,1 @@
-{"version":"7.2","filename":"t6ll-surnud-kyynal-v5.png","bot_version":"2.0","download_link":"https://github.com/enduity/rPlaceRevamp/archive/refs/tags/v2.0.zip","scan_type":"random"}
+{"version":"7.3","filename":"ilma-t6lluta.png","bot_version":"2.0","download_link":"https://github.com/enduity/rPlaceRevamp/archive/refs/tags/v2.0.zip","scan_type":"random"}
