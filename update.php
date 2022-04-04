@@ -1,1 +1,1 @@
-{"version":"4.6","filename":"t6ll-ja-p22suke.png","bot_version":"1.8","download_link":"https://github.com/enduity/rPlaceRevamp/archive/refs/tags/v1.8.zip","scan_type":"random"}
+{"version":"4.6","filename":"t6ll-ja-p22suke.png","bot_version":"2.0","download_link":"https://github.com/enduity/rPlaceRevamp/archive/refs/tags/v2.0.zip","scan_type":"random"}
