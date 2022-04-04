@@ -1,1 +1,1 @@
-{"version":"4.9","filename":"maybe-final-v1.png","bot_version":"2.0","download_link":"https://github.com/enduity/rPlaceRevamp/archive/refs/tags/v2.0.zip","scan_type":"random"}
+{"version":"5.0","filename":"maybe-final-v2.png","bot_version":"2.0","download_link":"https://github.com/enduity/rPlaceRevamp/archive/refs/tags/v2.0.zip","scan_type":"random"}
